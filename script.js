@@ -43,19 +43,6 @@
  * the value 'hello world!'.
  */
 
-/*
- * Prompt 6:
- *
- * Write some code that solves each sub-prompt below.
- */
-
-// A. Use loose-equals (==) to create a statement that is false
-// B. Use strict equals (===) to create a statement that is true
-// C. Use strict unequal (!==) to create a statement that is true
-// D. Use less than (<) to create a statement that is false
-// E. Use greater than (>) to create a statement that is false
-// F. Use less than or equals (<=) to create a statemetn that is true
-// G. Use greater than or equals (>=) to create a statemetn that is false
 
 /*
  * Prompt 7:
