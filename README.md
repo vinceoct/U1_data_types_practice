@@ -1,4 +1,4 @@
-## SEIR 123
+## SEIR 0508
 
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
@@ -34,7 +34,7 @@ node script.js
 
 ```
 
-> make sure to clone from your own fork! Not from SEIR-1003, as is done in the example above.
+> make sure to clone from your own fork! Not from SEIR-0508, as is done in the example above.
 
 Some prompts will require you to practice researching methods we did not learn
 in class.
