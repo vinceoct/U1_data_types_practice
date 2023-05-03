@@ -1,14 +1,14 @@
 /*
  * Prompt 1:
  *
- * Declare a variable called myFavoriteNumber on one line; assign it a value on
- * the next line.
+ * Declare a variable called myFavoriteSong on one line and console.log the value
+ * Then, using your Literals, console.log "my favorite song is..." with the food value
  */
 
 /*
  * Prompt 2:
  *
- * Declare 3 variables using each of let, const, and var.
+ * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
 
 /*
@@ -31,73 +31,15 @@
  *
  * Create a variable called fullName and use addition to combine your firstName
  * and lastName variables.
- */
-
-/*
- * Prompt 5:
- *
- * Create a variable called hello and assign it the string 'hello'; create
- * a variable called world and assign it the string 'world'.
- *
- * Create a variable called message and use string interpolation to assign it
- * the value 'hello world!'.
+ * Run a console.log that says 'hello my name is..." with your fullName. 
  */
 
 
-/*
- * Prompt 7:
- *
- * Using the variables defined below, replace the underscores in each subprompt so that the statement evaluates to true
- */
+/* Arrays */
 
-let a = 4;
-let b = 53;
-let c = 57;
-let d = 16;
-let e = 'Kevin';
-
-// a _ b;
-
-// c _ d;
-
-// 'Name' ___ 'Name';
-
-// a _ b ___ c;
-
-// a _ a ___ d;
-
-// e ___ 'Kevin';
-
-// 48 ___ '48';
 
 /*
- * Prompt 8:
- *
- * Using the variables defined below, replace the underscores in each subprompt so that the statement evaluates to false
- */
-
-a = 6;
-b = 100;
-c = -5;
-d = 3000;
-e = 'Jelly Bean';
-
-// a _ b;
-
-// c _ d;
-
-// 'Peanut' ___ 'Peanut';
-
-// a _ b ___ c;
-
-// a _ a ___ d;
-
-// e ___ 'Jelly Bean';
-
-// 48 ___ '48';
-
-/*
- * Prompt 9:
+ * Prompt 1:
  *
  * Retrieve "Marty McFly" from each of the arrays below.
  */
@@ -114,7 +56,7 @@ let array3 = [
 ];
 
 /*
- * Prompt 10:
+ * Prompt 2:
  *
  * Use the length of the array below to retrieve the second to last item.
  */
@@ -122,7 +64,7 @@ let array3 = [
 let array4 = ['a', 'b', 'c', 'd', 'e'];
 
 /*
- * Prompt 11:
+ * Prompt 3:
  *
  * Use the following arrays to answer the subprompts below.
  */
