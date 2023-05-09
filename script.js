@@ -11,7 +11,10 @@ console.log(myFavoriteSong)
  *
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
-
+ let varOne = "Sylvia"
+ var varTwo = "Elliot"
+ const varThree = "Jenny"  
+console.log(varOne, varTwo, varThree)
 /*
  * Prompt 3:
  *
