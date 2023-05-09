@@ -93,7 +93,11 @@ thom.splice( 0, 1, 'Tom')
 console.log(thom)
 // Karolin just had her birthday; change Karolin's array to reflect her being
 // a year older.
-
+karolin.splice(1,1, 17)
+console.log(karolin)
 // Change Cathleen's hometown from New York to "Gotham City".
-
+cathleen.splice(2, 1, "Gotham City")
+console.log(cathleen)
 // Remove "Pittsburgh" from Kristyn's array and add "Oakland".
+kristyn.splice(2, 1, "Oakland")
+console.log(kristyn)
