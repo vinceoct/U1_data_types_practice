@@ -2,7 +2,7 @@
  * Prompt 1:
  *
  * Declare a variable called myFavoriteSong on one line and console.log the value
- * Then, using your Literals, console.log "my favorite song is..." with the food value
+ * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
 
 /*
@@ -14,7 +14,7 @@
 /*
  * Prompt 3:
  *
- * Create a variable and assign a number to it. On a separate line for each:
+ * Create a variable and assign a number to it. On a separate line for each, using console.log:
  *   - add a number to your variable
  *   - subtract a number from your variable
  *   - multiply your variable by 3
@@ -75,7 +75,7 @@ let kristyn = ['Kristyn', 5, 'Pittsburgh'];
 let cathleen = ['Cathleen', 186, 'New York'];
 
 // Cathleen decides that Thom can't be named "Thom" anymore. Remove "Thom" from
-// the thom array and replace it with "Gameboy".
+// the thom array and replace it with "Tom".
 
 // Karolin just had her birthday; change Karolin's array to reflect her being
 // a year older.
