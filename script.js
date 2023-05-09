@@ -1,10 +1,11 @@
 /*
  * Prompt 1:
- *
+ * 
  * Declare a variable called myFavoriteSong on one line and console.log the value
  * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
-
+let myFavoriteSong = "Count Me Out"
+console.log(myFavoriteSong)
 /*
  * Prompt 2:
  *
