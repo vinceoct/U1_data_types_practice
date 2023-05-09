@@ -89,7 +89,8 @@ let cathleen = ['Cathleen', 186, 'New York'];
 
 // Cathleen decides that Thom can't be named "Thom" anymore. Remove "Thom" from
 // the thom array and replace it with "Tom".
-
+thom.splice( 0, 1, 'Tom')
+console.log(thom)
 // Karolin just had her birthday; change Karolin's array to reflect her being
 // a year older.
 
