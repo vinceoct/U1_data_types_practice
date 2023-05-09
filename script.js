@@ -67,7 +67,7 @@ let array3 = [
   ['Marty Feldman', ['Marty Marion']],
   ['Marty Stuart', ['Marty Janetty', ['Marty McFly'], 'Marty Robbins']]
 ];
-
+console.log(array1[2], array2[1][1], array3[1][1][1][0])    
 /*
  * Prompt 2:
  *
