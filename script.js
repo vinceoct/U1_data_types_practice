@@ -5,7 +5,7 @@
  * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
 let myFavoriteSong = "Count Me Out"
-console.log(myFavoriteSong)
+console.log("my favorite song is " + myFavoriteSong)
 /*
  * Prompt 2:
  *
@@ -75,7 +75,7 @@ console.log(array1[2], array2[1][1], array3[1][1][1][0])
  */
 
 let array4 = ['a', 'b', 'c', 'd', 'e'];
-
+console.log(array4[3])
 /*
  * Prompt 3:
  *
