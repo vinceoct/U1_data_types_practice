@@ -25,7 +25,12 @@ console.log(varOne, varTwo, varThree)
  *   - divide your variable by 7
  *   - calculate the remainder of dividing your variable by 2
  */
-
+let x = 82
+console.log(x + 4)
+console.log(x - 2)
+console.log(x * 3)
+console.log(x / 7)
+console.log(x % 2)
 /*
  * Prompt 4:
  *
